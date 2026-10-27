@@ -55,7 +55,7 @@ export default function Details() {
               (item) => item.id === recipeDetailsData?.recipe?.id
             ) !== -1
               ? "Remove from favorites"
-              : "Add to favorites"}
+              : "Add To favorites"}
           </button>
         </div>
         <div>

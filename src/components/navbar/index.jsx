@@ -28,7 +28,7 @@ export default function Navbar() {
             to={"/"}
             className="text-black hover:text-gray-700 duration-300"
           >
-            Home
+            HOME
           </NavLink>
         </li>
         <li>
@@ -36,7 +36,7 @@ export default function Navbar() {
             to={"/favorites"}
             className="text-black hover:text-gray-700 duration-300"
           >
-            favorites
+            FAVOURITES
           </NavLink>
         </li>
       </ul>
